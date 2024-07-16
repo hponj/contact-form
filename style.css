@@ -1,0 +1,26 @@
+.contact-box{
+    font-size: 1.3rem;
+}
+
+.contact-box input{
+    padding: 0.5rem 0.5rem 0.5rem 1rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+    border: none;
+    background-color: #F0F0F0;
+}
+
+.contact-box textarea{
+    padding: 0.5rem 0.5rem 0.5rem 1rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+    border: none;
+    background-color: #F0F0F0;
+    font-size: 1.3rem;
+}
+
+
+
+.submit-btn:hover{
+    background-color: #006fbf !important;
+}
